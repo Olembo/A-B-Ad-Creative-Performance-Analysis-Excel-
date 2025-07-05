@@ -28,7 +28,7 @@ ab-ad-creative-performance/
 
 ├── README.md # This file
 
-|
+
 ├── Data/
 
 ├── ab_ad_raw.xlsx # Raw dataset (simulated, 40k+ rows)
@@ -37,9 +37,9 @@ ab-ad-creative-performance/
 
 ├── Analysis/
 
-└── ab_ad_analysis.xlsx # Excel workbook (all sheets and charts)
+      └── ab_ad_analysis.xlsx # Excel workbook (all sheets and charts)
 
-├── Issues_Log.xlsx # Data quality and cleaning documentation
+      ├── Issues_Log.xlsx # Data quality and cleaning documentation
 
 
 
