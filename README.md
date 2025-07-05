@@ -26,9 +26,11 @@ This project analyzes the performance of digital advertising campaigns across mu
 ## 📂 File Structure
 ab-ad-creative-performance/
 ├── README.md # This file
+
 ├── Data/
 │ ├── ab_ad_raw.xlsx # Raw dataset (simulated, 40k+ rows)
 │ └── ab_ad_cleaned.xlsx # Cleaned/processed data
+
 ├── Analysis/
 │ └── ab_ad_analysis.xlsx # Excel workbook (all sheets and charts)
 ├── Issues_Log.xlsx # Data quality and cleaning documentation
