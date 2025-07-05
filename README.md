@@ -36,9 +36,7 @@ ab-ad-creative-performance/
 └── ab_ad_cleaned.xlsx # Cleaned/processed data
 
 ├── Analysis/
-
       └── ab_ad_analysis.xlsx # Excel workbook (all sheets and charts)
-
       ├── Issues_Log.xlsx # Data quality and cleaning documentation
 
 
