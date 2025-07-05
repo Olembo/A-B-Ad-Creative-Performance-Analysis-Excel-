@@ -1,4 +1,4 @@
-# 📊 A/B Ad Creative Performance Analysis (Excel)
+# A/B Ad Creative Performance Analysis (Excel)
 
 **Project Type:** Marketing Analytics / A/B Test Analysis  
 **Tools:** Excel (PivotTables, Charts, Conditional Formatting)  
@@ -6,13 +6,13 @@
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 
 This project analyzes the performance of digital advertising campaigns across multiple platforms (Facebook, Google, Instagram, etc.) and regions using A/B test groups. The analysis focuses on key performance metrics (ROAS, CPA, CTR, CVR) to uncover actionable insights and drive marketing optimization.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **KPI Summary:** At-a-glance view of spend, revenue, conversions, and efficiency metrics
 - **Trend Analysis:** Time-series of monthly performance (spend, impressions, conversions)
@@ -23,7 +23,7 @@ This project analyzes the performance of digital advertising campaigns across mu
 
 ---
 
-## 📂 File Structure
+## File Structure
 ab-ad-creative-performance/
 
 ├── README.md # This file
@@ -44,7 +44,7 @@ ab-ad-creative-performance/
 
 ---
 
-## 📈 Summary of Insights
+## Summary of Insights
 
 - **Strong ROI:** ROAS above 3.5, positive returns throughout the year.
 - **Platform:** Instagram and TikTok led; YouTube underperformed on ROAS.
@@ -54,7 +54,7 @@ ab-ad-creative-performance/
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Reallocate budget** to Instagram, TikTok, and high-ROAS Asian regions.
 2. **Improve** underperforming platforms (YouTube, mobile).
@@ -64,7 +64,7 @@ ab-ad-creative-performance/
 
 ---
 
-## 📚 How To Explore
+## How To Explore
 
 1. **Open** `/Analysis/ab_ad_analysis.xlsx`
 2. **Review** the key sheets:  
@@ -77,7 +77,7 @@ ab-ad-creative-performance/
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning & documentation
 - PivotTable analysis, calculated metrics (ROAS, CPA, etc.)
@@ -86,7 +86,7 @@ ab-ad-creative-performance/
 
 ---
 
-## 📣 About
+##  About
 
 This project follows principles from *Storytelling with Data*—emphasizing clarity, business value, and actionable communication.
 
